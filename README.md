@@ -1,4 +1,4 @@
-# MIVE
+# MIVE (WIP)
 This is the repository for a final year project made by me and a few others. It is a attempt at an Immersive Virtual Reality Environment. You start out in the main hub which is a large custom built terrain with currently just a small road and a portal which takes you to a XR Toolkit Starter Room which is currently kept just as a placeholder.
 
 Rooms planned include a Conference Room, a Classroom and a Theatre.
