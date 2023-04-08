@@ -1,7 +1,7 @@
 # MIVE (WIP)
 An immersive VR environment that is created in the Unity Engine which  enables a collaborative workspace for people from across the globe to interact in a meaningful away.
 
-Drop in MIVE\Library\Artifacts folder : https://drive.google.com/file/d/1WIK5WPiBmhBfDDDdUWIofRcsoP-qDwU1/view?usp=sharing
+Drop in MIVE\Library\Artifacts folder (File is bigger than 100mb, hence cannot be commited for free) : https://drive.google.com/file/d/1WIK5WPiBmhBfDDDdUWIofRcsoP-qDwU1/view?usp=sharing
 
 Earlier README: 
 
