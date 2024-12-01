@@ -1,4 +1,4 @@
-# MIVE (Discontinued)
+# MIVE
 An immersive VR environment that is created in the Unity Engine which  enables a collaborative workspace for people from across the globe to interact in a meaningful away.
 The rooms created so far include - the base hub, a spacestation hub, a theatre, a classroom and the latest XR Interaction Toolkit Sample room.
 
